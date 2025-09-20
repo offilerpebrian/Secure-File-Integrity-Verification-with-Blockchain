@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.6",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
